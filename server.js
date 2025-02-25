@@ -69,7 +69,7 @@ app.post("/user", async (req, res) => {
 });
 
 app.get("/", (req, res) => {
-  res.send("Hello from Express.js");
+  res.send("Hello Darling");
 });
 
 // Start the server
